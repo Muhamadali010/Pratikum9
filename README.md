@@ -55,17 +55,17 @@ Berikut adalah beberapa poin penting tentang sintaks yang disebutkan di atas -
 
 ### Contoh
 Dicontoh ini akan membuka file, lalu menulis ini file, dan akan keluar dengan normal karena tidak ada masalah didalamnya.
-![img1](SS/SS3.png)
+![img1](SS/SS3.PNG)
 
 Ini menghasilkan hasil berikut -
-![img1](SS/SS4.png)
+![img1](SS/SS4.PNG)
 
 ### Contoh
 Dicontoh ini akan mencoba membuka sebuah file dimana kita tidak mempunyai izin untuk menulis, jadi nantinya akan memunculkan sebuah pengecualian.
-![img1](SS/SS5.png)
+![img1](SS/SS5.PNG)
 
 Ini menghasilkan hasil berikut -
-![img1](SS/SS6.png)
+![img1](SS/SS6.PNG)
 
 ### Pengecualian tanpa Exceptions
 
@@ -117,14 +117,14 @@ Kita tidak bisa menggunakan else berbarengan dengan sebuah finally.
 
 ### Contoh
 
-![img1](SS/SS7.png)
+![img1](SS/SS7.PNG)
 Jika Anda tidak memiliki izin izin untuk membuka file dalam mode penulisan tertulis, maka ini akan menghasilkan file
 berikut hasil −
 
-![img1](SS/SS8.png)
+![img1](SS/SS8.PNG)
 
 Contoh yang sama bisa ditulis lebih sempurna
-![img1](SS/SS9.png)
+![img1](SS/SS9.PNG)
 
 Ketika pengecualian dilemparkan ke *try-block*, eksekusi segera diteruskan ke *finally block*. Setelah semua pernyataan di blok *finally* dieksekusi, pengecualian dimunculkan lagi dan ditangani di dalam pernyataan *except* jika ada di lapisan di atas pernyataan *try-except* berikutnya.
 
@@ -136,10 +136,10 @@ Variabel ini menerima value dari pengecualian yang sebagian besar berisi penyeba
 ### Contoh
 
 Berikut adalah contoh untuk satu pengecualian −
-![img1](SS/SS10.png)
+![img1](SS/SS10.PNG)
 
 Ini menghasilkan hasil berikut -
-![img1](SS/SS11.png)
+![img1](SS/SS11.PNG)
 
 
 ### Memunculkan sebuah Pengecualian
